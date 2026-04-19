@@ -1,0 +1,12 @@
+kos = [     [1,"Tyler Dorsey","ATL",21,16,2,14,7.3,2.8,0.3,72000],
+            [2,"Tyler Cavanaugh","ATL",23,29,9,20,14.1,5.1,0.9,195000],
+            [3,"Taurean Prince","ATL",23,42,11,31,31.1,12.8,2.5,258000],
+            [4,"Nicolas Brussino","ATL",24,5,1,4,2.5,0,0,27000],
+            [5,"Miles Plumlee","ATL",29,23,7,16,18.5,5,0.9,153000],
+            [6,"Mike Muscala","ATL",26,14,2,12,18.1,6.1,0.6,66000],
+            [7,"Marco Belinelli","ATL",31,41,11,30,23.3,11.8,2,255000],
+            [8,"Malcolm Delaney","ATL",28,34,7,27,19.2,6.3,2.4,186000]]
+
+#Zaglavlje: 
+R.b.,Košarkaš,Tim,Godište,Odigranih utakmica,Pobede,Porazi,Minutaža,Prosecno poena,Prosecno asistencija,Zarada
+
